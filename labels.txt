@@ -1,0 +1,6 @@
+0 Focada(o)
+1 Cabeca inclinada
+2 Sonolenta (o)
+3 Usando celular
+4 Olhando para o lado
+5 Ausente
