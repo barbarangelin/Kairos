@@ -1,8 +1,0 @@
-Requirement already satisfied: tensorflow in c:\users\barba\.pyenv\pyenv-win\versions\3.12.8\lib\site-packages (2.21.0)
-Collecting numpy==1.23.5
-  Downloading numpy-1.23.5.tar.gz (10.7 MB)
-     ---------------------------------------- 10.7/10.7 MB 3.2 MB/s eta 0:00:00
-  Installing build dependencies: started
-  Installing build dependencies: finished with status 'done'
-  Getting requirements to build wheel: started
-  Getting requirements to build wheel: finished with status 'error'
